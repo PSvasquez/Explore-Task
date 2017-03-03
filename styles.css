@@ -1,0 +1,22 @@
+.container{
+    text-align: center
+    
+}
+
+.choice{
+    border-color: black;
+    border: 1px;
+    display: inline block;
+    width: 100px;
+    text-align:center;
+    padding:100px ;
+    
+}
+
+.p{ 
+    font-size:150%;
+}
+
+body{
+    background-color: white;
+}
